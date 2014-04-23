@@ -16,5 +16,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to program\n");
         new GUI().setVisible(true);
+        System.out.println("real shit happening here");
     }
 }
